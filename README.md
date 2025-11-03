@@ -10,3 +10,7 @@ Assignment repository for UNT CSCE1015
 bc0686
 ## Favorite Linux Command
 ls -la
+## EUID
+bc0686
+## Favorite Linux Command
+ls -la
