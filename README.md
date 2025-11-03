@@ -14,3 +14,7 @@ ls -la
 bc0686
 ## Favorite Linux Command
 ls -la
+## EUID
+bc0686
+## Favorite Linux Command
+ls -la
